@@ -1,8 +1,3 @@
-##Financial Researcher
-
----
-
-````markdown
 # Financial Researcher
 
 A modular, AI-driven research and reporting framework built on [Crew.ai](https://github.com/crewai/crewai). Define agents and tasks via simple YAML configs, then spin up a “crew” of LLM-powered specialists to research, analyze, and generate professional reports on any company or topic.
@@ -25,7 +20,7 @@ A modular, AI-driven research and reporting framework built on [Crew.ai](https:/
 - Access to OpenAI API (or other LLMs supported by your `crewai` installation)  
 - Environment variable `OPENAI_API_KEY` (or equivalent) set  
 
----
+
 
 ## 🛠️ Installation
 
