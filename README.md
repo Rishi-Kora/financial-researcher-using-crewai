@@ -28,7 +28,7 @@ A modular, AI-driven research and reporting framework built on [Crew.ai](https:/
    ```bash
    git clone https://github.com/your-username/financial_researcher.git
    cd financial_researcher
-````
+
 
 2. **Create & activate a virtual environment**
 
@@ -36,7 +36,7 @@ A modular, AI-driven research and reporting framework built on [Crew.ai](https:/
    python -m venv .venv
    source .venv/bin/activate   # Linux/macOS
    .\.venv\Scripts\activate    # Windows
-   ```
+
 
 3. **Install dependencies**
 
@@ -44,7 +44,7 @@ A modular, AI-driven research and reporting framework built on [Crew.ai](https:/
    pip install crewai crewai_tools pyyaml
    ```
 
----
+
 
 ## 🔧 Configuration
 
